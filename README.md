@@ -48,6 +48,10 @@ Achieved high accuracy using SVM.
 ### **✋ Hand Gesture Recognition (RPS Game)**
 Built using OpenCV and Django to detect hand gestures and play Rock-Paper-Scissors.
 
+### **🚗 Car Infotainment System (Qt/QML)**
+Developed an interactive infotainment system UI using Qt and QML.  
+Features include media controls, navigation interface, car status display, and a responsive UI suitable for automotive HMI applications.
+
 ---
 
 ## 💼 Experience
@@ -60,11 +64,17 @@ Built using OpenCV and Django to detect hand gestures and play Rock-Paper-Scisso
 **2023**  
 - Worked on data collection, cleaning, analysis, and prediction using Excel, SQL, Python, Pandas, NumPy, and scikit-learn.
 
+### **Sopra Steria — C++ Developer Intern**  
+**2025**  
+- Worked on C++ development for enterprise-level applications.  
+- Gained hands-on experience in object-oriented programming, debugging, and software enhancement.  
+- Learned industry-level development practices and collaborative workflows.
+
 ---
 
 ## 🎓 Education
 - **BE — Computer Science Engineering, Acharya Institute of Technology, Bengaluru**  
-  CGPA: 9.17 | 2025  
+  CGPA: 9.21 | 2025  
 - **Rockfort PU College, Chitradurga**  
   84% | 2020
 
@@ -73,8 +83,6 @@ Built using OpenCV and Django to detect hand gestures and play Rock-Paper-Scisso
 ## 📫 Contact Me
 - 📞 **Phone:** 6363224141  
 - 📧 **Email:** anjaliprasad110702@gmail.com  
-- 🔗 **LinkedIn:** *Add your link here*  
-- 🔗 **GitHub:** *Add your GitHub link here*
 
 ---
 
