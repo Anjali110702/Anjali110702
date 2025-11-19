@@ -1,7 +1,7 @@
 # Hi, I'm Anjali K S 👋
 
 ## 👩‍💻 About Me  
-I am a Computer Science Engineering student passionate about Machine Learning, Data Analytics, and Full-Stack Development.  
+I am a Computer Science Engineer passionate about Machine Learning, Data Analytics, and Full-Stack Development.  
 I love building practical and impactful projects—ranging from recommendation systems to gesture-based applications—and I enjoy learning new tools and technologies.  
 
 I aim to grow as a developer, explore emerging tech, and contribute to meaningful projects.
@@ -12,7 +12,7 @@ I aim to grow as a developer, explore emerging tech, and contribute to meaningfu
 
 ### **Programming Languages**
 - Python (Pandas, NumPy, Matplotlib)
-- C  
+- C, C++
 - Basic Java
 
 ### **Machine Learning & Data**
@@ -21,7 +21,7 @@ I aim to grow as a developer, explore emerging tech, and contribute to meaningfu
 - Data Visualization: Tableau, Power BI  
 
 ### **Web Development**
-- HTML, CSS  
+- HTML, CSS, JS  
 - Frameworks: Django, Flask  
 
 ### **Databases**
