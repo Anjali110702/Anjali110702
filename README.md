@@ -21,7 +21,8 @@ I aim to grow as a developer, explore emerging tech, and contribute to meaningfu
 - Data Visualization: Tableau, Power BI  
 
 ### **Web Development**
-- HTML, CSS, JS  
+- HTML, CSS, JS
+- React.js
 - Frameworks: Django, Flask  
 
 ### **Databases**
